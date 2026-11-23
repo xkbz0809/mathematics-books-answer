@@ -2,7 +2,9 @@
 
 数学书和讲义的中文习题解答、解答源码及中英文勘误。解答按配套书籍或讲义的原题号编排，勘误的适用版本见各 PDF。
 
-| 书籍或讲义 | 中文解答 | 解答源码 | 中文勘误 | 英文勘误 |
+表中的 Errata 指英文勘误。在同时提供中英文版的书目中，两版记录的是同一套勘误，条目和原书定位相对应。
+
+| 书籍或讲义 | 中文解答 | 解答源码 | 中文勘误 | Errata |
 | --- | --- | --- | --- | --- |
 | Hilton、Stammbach《同调代数教程》（GTM 4） | [PDF](gtm4-homological-algebra/solutions-zh.pdf) | — | — | — |
 | Cohen《简单同伦理论教程》（GTM 10） | — | — | [PDF](gtm10-simple-homotopy-theory/errata-zh.pdf) | [PDF](gtm10-simple-homotopy-theory/errata-en.pdf) |
