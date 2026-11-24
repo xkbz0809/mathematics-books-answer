@@ -6,7 +6,7 @@
 
 | 书籍或讲义 | 中文解答 | 解答源码 | 中文勘误 | Errata |
 | --- | --- | --- | --- | --- |
-| Hilton、Stammbach《同调代数教程》（GTM 4） | [PDF](gtm4-homological-algebra/solutions-zh.pdf) | — | — | — |
+| Hilton、Stammbach《同调代数教程》（GTM 4） | [PDF](gtm4-homological-algebra/solutions-zh.pdf) | [PDF](gtm4-homological-algebra/errata-zh.pdf) | [PDF](gtm4-homological-algebra/errata-en.pdf) | — |
 | Cohen《简单同伦理论教程》（GTM 10） | — | — | [PDF](gtm10-simple-homotopy-theory/errata-zh.pdf) | [PDF](gtm10-simple-homotopy-theory/errata-en.pdf) |
 | Anderson、Fuller《环与模范畴》第 2 版（GTM 13） | [PDF](gtm13-rings-and-categories-of-modules/solutions-zh.pdf) | [ZIP](gtm13-rings-and-categories-of-modules/source.zip) | [PDF](gtm13-rings-and-categories-of-modules/errata-zh.pdf) | [PDF](gtm13-rings-and-categories-of-modules/errata-en.pdf) |
 | Winter《域的结构》（GTM 16） | [PDF](gtm16-structure-of-fields/solutions-zh.pdf) | [ZIP](gtm16-structure-of-fields/source.zip) | [PDF](gtm16-structure-of-fields/errata-zh.pdf) | [PDF](gtm16-structure-of-fields/errata-en.pdf) |
@@ -15,8 +15,8 @@
 | Manes《代数理论》（GTM 26） | [PDF](gtm26-algebraic-theories/solutions-zh.pdf) | [ZIP](gtm26-algebraic-theories/source.zip) | [PDF](gtm26-algebraic-theories/errata-zh.pdf) | [PDF](gtm26-algebraic-theories/errata-en.pdf) |
 | Zariski、Samuel《交换代数》第 1 卷（GTM 28） | — | — | [PDF](gtm28-commutative-algebra-vol-1/errata-zh.pdf) | [PDF](gtm28-commutative-algebra-vol-1/errata-en.pdf) |
 | Zariski、Samuel《交换代数》第 2 卷（GTM 29） | — | — | [PDF](gtm29-commutative-algebra-vol-2/errata-zh.pdf) | [PDF](gtm29-commutative-algebra-vol-2/errata-en.pdf) |
-| Iitaka《代数几何》（GTM 76） | [PDF](gtm76-algebraic-geometry/solutions-zh.pdf) | — | — | — |
-| Ireland、Rosen《现代数论经典导引》（GTM 84） | [PDF](gtm84-modern-number-theory/solutions-zh.pdf) | — | — | — |
+| Iitaka《代数几何》（GTM 76） | [PDF](gtm76-algebraic-geometry/solutions-zh.pdf) | [PDF](gtm76-algebraic-geometry/errata-zh.pdf) | [PDF](gtm76-algebraic-geometry/errata-en.pdf) | — |
+| Ireland、Rosen《现代数论经典导引》（GTM 84） | [PDF](gtm84-modern-number-theory/solutions-zh.pdf) | [PDF](gtm84-modern-number-theory/errata-zh.pdf) | [PDF](gtm84-modern-number-theory/errata-en.pdf) | — |
 | Fulton、Harris《表示论：第一教程》（GTM 129） | [PDF](gtm129-representation-theory/solutions-zh.pdf) | [ZIP](gtm129-representation-theory/source.zip) | — | — |
 | Morandi《域与伽罗瓦理论》（GTM 167） | [PDF](gtm167-field-and-galois-theory/solutions-zh.pdf) | [ZIP](gtm167-field-and-galois-theory/source.zip) | — | — |
 | Grillet《抽象代数》第 2 版（GTM 242） | [PDF](gtm242-abstract-algebra/solutions-zh.pdf) | [ZIP](gtm242-abstract-algebra/source.zip) | [PDF](gtm242-abstract-algebra/errata-zh.pdf) | [PDF](gtm242-abstract-algebra/errata-en.pdf) |
@@ -28,7 +28,7 @@
 | Simson、Skowroński《结合代数表示论基础》第 3 卷 | [PDF](associative-algebras-vol-3/solutions-zh.pdf) | [ZIP](associative-algebras-vol-3/source.zip) | [PDF](associative-algebras-vol-3/errata-zh.pdf) | [PDF](associative-algebras-vol-3/errata-en.pdf) |
 | Jacobson《基础代数》第 1 卷（第 2 版） | — | — | [PDF](basic-algebra-vol-1/errata-zh.pdf) | [PDF](basic-algebra-vol-1/errata-en.pdf) |
 | Jacobson《基础代数》第 2 卷（第 2 版） | — | — | [PDF](basic-algebra-vol-2/errata-zh.pdf) | [PDF](basic-algebra-vol-2/errata-en.pdf) |
-| Borevich、Shafarevich《数论》 | [PDF](borevich-shafarevich-number-theory/solutions-zh.pdf) | [ZIP](borevich-shafarevich-number-theory/source.zip) | — | — |
+| Borevich、Shafarevich《数论》 | [PDF](borevich-shafarevich-number-theory/solutions-zh.pdf) | [ZIP](borevich-shafarevich-number-theory/source.zip) | [PDF](borevich-shafarevich-number-theory/errata-zh.pdf) | [PDF](borevich-shafarevich-number-theory/errata-en.pdf) |
 | Bosch《代数学》（2018 年英文版） | [PDF](bosch-algebra/solutions-zh.pdf) | [ZIP](bosch-algebra/source.zip) | [PDF](bosch-algebra/errata-zh.pdf) | [PDF](bosch-algebra/errata-en.pdf) |
 | Bosch《代数几何与交换代数》第 2 版 | [PDF](bosch-algebraic-geometry-and-commutative-algebra/solutions-zh.pdf) | [ZIP](bosch-algebraic-geometry-and-commutative-algebra/source.zip) | [PDF](bosch-algebraic-geometry-and-commutative-algebra/errata-zh.pdf) | [PDF](bosch-algebraic-geometry-and-commutative-algebra/errata-en.pdf) |
 | Buck《高等微积分》第 3 版 | [PDF](buck-advanced-calculus-3e/solutions-zh.pdf) | [ZIP](buck-advanced-calculus-3e/source.zip) | [PDF](buck-advanced-calculus-3e/errata-zh.pdf) | [PDF](buck-advanced-calculus-3e/errata-en.pdf) |
