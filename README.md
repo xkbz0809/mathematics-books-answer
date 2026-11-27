@@ -4,6 +4,10 @@
 
 表中的 Errata 指英文勘误。在同时提供中英文版的书目中，两版记录的是同一套勘误，条目和原书定位相对应。
 
+本仓库内容为个人学习交流使用。原作品版权归原作者及出版社所有，本仓库发布译本未经原权利人授权。本仓库内容严禁用于商业用途。
+
+小可本州对本人有权许可的原创贡献采用 **CC BY-NC-SA 4.0**（署名—非商业性使用—相同方式共享）。转载或改编时请署名「小可本州」，附上许可链接并注明修改，改编成果须以相同协议共享。原作品及第三方材料的权利由各自权利人保留。[许可全文](LICENSE) · [协议中文说明](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)
+
 | 书籍或讲义 | 中文解答 | 解答源码 | 中文勘误 | Errata |
 | --- | --- | --- | --- | --- |
 | Hilton、Stammbach《同调代数教程》（GTM 4） | [PDF](gtm4-homological-algebra/solutions-zh.pdf) | [PDF](gtm4-homological-algebra/errata-zh.pdf) | [PDF](gtm4-homological-algebra/errata-en.pdf) | — |
